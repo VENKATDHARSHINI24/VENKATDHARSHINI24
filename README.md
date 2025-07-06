@@ -56,7 +56,7 @@
 - 🌉 Full-Stack Web Architecture (Frontend ↔️ Backend)
 - 🧠 AI/ML Models & Real-world Deployment
 - 🔋 IoT: Smart Systems using Raspberry Pi & Arduino
-- 🗂️ Scalable Databases and Efficient Query Design
+
 
 ### 🌐 Connect With Me
 
