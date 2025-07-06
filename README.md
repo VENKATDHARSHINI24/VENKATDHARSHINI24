@@ -35,14 +35,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VENKATDHARSHINI24&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VENKATDHARSHINI24&theme=radical" width="45%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VENKATDHARSHINI24&show_icons=true&theme=radical" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VENKATDHARSHINI24&theme=radical" width="420" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKATDHARSHINI24&layout=compact&theme=radical" width="50%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKATDHARSHINI24&layout=compact&theme=radical" width="500" />
+</div>
+
 
 ---
 
