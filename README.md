@@ -10,7 +10,7 @@
 - 🚀 Currently engaged in building **AI-powered systems** and working on innovative capstone projects.
 - 🌱 Continuously learning and upskilling in **MERN Stack** and **Artificial Intelligence & Machine Learning**
 - 💬 I enjoy discussing topics related to **Web Development**, **Python**, **JavaScript**, **Java**, and **C programming**.
-- 🧠 Fun Fact: I treat every error message as a cryptic puzzle — and I genuinely enjoy solving them.
+🧠 Fun Fact: I treat every error message as a cryptic puzzle — and I genuinely enjoy solving them.
 ---
 
 ### 🚀 Tech Stack
