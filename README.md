@@ -69,3 +69,19 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+---
+
+### 🙏 Thank You for Visiting!
+
+<p align="center">
+  If you’ve scrolled this far — thank you! 😊  
+  I'm always excited to connect, collaborate, or even just chat tech.
+</p>
+
+<p align="center">
+  📬 <strong>Let's build something awesome together!</strong> Feel free to reach out via any of the platforms above.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=2000&color=6EF7F7&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1" alt="Keep growing SVG" />
+</p>
