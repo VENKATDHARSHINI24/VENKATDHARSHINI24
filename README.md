@@ -58,9 +58,7 @@
 ## 🛠️ Engineering Interests
 
 - 🌉 **Full-Stack Web Architecture** (Frontend ↔️ Backend)
-- 🧠 **AI/ML Models** & Deployment
 - 🔋 **IoT Innovations** using Raspberry Pi & Arduino
-
 ---
 
 ## 🌐 Connect With Me
