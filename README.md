@@ -6,18 +6,18 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 I am currently pursuing my undergraduate degree in **Computer Science Engineering**.
-- 💡 I have a strong interest in developing full-stack web applications and implementing real-time IoT solutions.
-- 🚀 Currently engaged in building **AI-powered systems** and working on innovative capstone projects.
-- 🌱 Continuously learning and upskilling in **MERN Stack** and **Artificial Intelligence & Machine Learning**
-- 💬 I enjoy discussing topics related to **Web Development**, **Python**, **JavaScript**, **Java**, and **C programming**.  
-- 🧠 *Fun Fact:* I treat every error message as a cryptic puzzle — and I genuinely enjoy solving them.
+- 🎓 Pursuing **B.E. in Computer Science Engineering**.
+- 💡 Passionate about building **full-stack web applications** and **real-time IoT systems**.
+- 🚀 Currently developing **AI-powered systems** and working on **innovative projects**.
+- 🌱 Learning & upskilling in **MERN Stack**, **Artificial Intelligence**, and **Machine Learning**.
+- 💬 Love discussing **Web Development**, **Python**, **JavaScript**, **Java**, and **C programming**.
+- 🧠 *Fun Fact:* Every bug is just a puzzle waiting to be solved!
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,react,nodejs,express,mongodb,arduino,raspberrypi,git" />
@@ -25,7 +25,16 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📂 Current Projects
+
+- **🌐 Travel Planner Website** – React-based trip planning platform  
+- **🤖 Visualizing Math AI** – OCR-powered AI math problem solver  
+- **📚 Library Management System** – Flask & MongoDB based solution  
+- **💊 Medicine Stock Tracker** – Python-based expiry management tool  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VENKATDHARSHINI24&show_icons=true&theme=radical" width="420" />
@@ -38,7 +47,7 @@
 
 ---
 
-### 🔥 LeetCode Stats
+## 🔥 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/venkatdharshiniv?theme=dark&font=Karma&ext=contest" />
@@ -46,42 +55,40 @@
 
 ---
 
-### 🛠️ Engineering Interests
+## 🛠️ Engineering Interests
 
-- 🌉 Full-Stack Web Architecture (Frontend ↔️ Backend)
-- 🧠 AI/ML Models & Real-world Deployment
-- 🔋 IoT: Smart Systems using Raspberry Pi & Arduino
+- 🌉 **Full-Stack Web Architecture** (Frontend ↔️ Backend)
+- 🧠 **AI/ML Models** & Deployment
+- 🔋 **IoT Innovations** using Raspberry Pi & Arduino
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkatdharshini24/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/venkatdharshiniv/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="mailto:venkatdharshini.v@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🙏 Thank You for Visiting!
+## 🙏 Thank You for Visiting!
 
 <p align="center">
-  If you’ve scrolled this far — thank you! 😊  
-  I'm always excited to connect, collaborate, or even just chat tech.
+  Thanks for scrolling! 😊 Always open to collaboration, discussion, and building something impactful.  
 </p>
 
 <p align="center">
-  📬 <strong>Let's build something awesome together!</strong> Feel free to reach out via any of the platforms above.
+  📬 <strong>Let's create something amazing together!</strong>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=F7971E&center=true&vCenter=true&width=600&lines=Dream+It.+Code+It.+%F0%9F%92%BB;Collaborate+%26+Create+Together+%F0%9F%91%BB;Inspire+%26+Innovate+Everyday+%F0%9F%92%A1;Thanks+for+Stopping+By!+%F0%9F%91%8B" alt="Thank you animation" />
 </p>
-
