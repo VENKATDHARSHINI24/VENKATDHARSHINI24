@@ -25,12 +25,15 @@
 
 ---
 
-## 📂 Current Projects
+📂 Current Projects
 
-- **🌐 Travel Planner Website** – React-based trip planning platform  
-- **🤖 Visualizing Math AI** – OCR-powered AI math problem solver  
-- **📚 Library Management System** – Flask & MongoDB based solution  
-- **💊 Medicine Stock Tracker** – Python-based expiry management tool  
+🌐 Travel Planner Website – React-based trip planning platform
+
+🤖 Visualizing Math AI – OCR-powered AI math problem solver
+
+💊 Medicine Stock Expire Management System – Python-based expiry management tool
+
+🥥 Coconut Sorting System – Real-time detection, classification (healthy/cracked), and weight prediction using AI & OpenCV
 
 ---
 
