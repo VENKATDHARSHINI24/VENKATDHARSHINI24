@@ -39,9 +39,9 @@
 
  📖 Course management & structured learning modules  
  🎥 Live classes integration (Zoom/meeting support)  
-- 📝 Assignments, quizzes & progress tracking  
-- 📊 Government exam coaching support  
-- 📚 Book references & study materials  
+ 📝 Assignments, quizzes & progress tracking  
+ 📊 Government exam coaching support  
+ 📚 Book references & study materials  
  💬 Real-time communication between students & instructors 
 
 
