@@ -36,6 +36,7 @@
 🥥 **Coconut Sorting System** – Real-time detection, classification (healthy/cracked), and weight prediction using AI & OpenCV
 
 📚 **Learning Management System (LMS)** – A unified platform for student-teacher interaction featuring:
+
  📖 Course management & structured learning modules  
  🎥 Live classes integration (Zoom/meeting support)  
 - 📝 Assignments, quizzes & progress tracking  
