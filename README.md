@@ -35,7 +35,14 @@
 
 🥥 **Coconut Sorting System** – Real-time detection, classification (healthy/cracked), and weight prediction using AI & OpenCV
 
----
+📚 **Learning Management System (LMS)** – A unified platform for student-teacher interaction featuring:
+ 📖 Course management & structured learning modules  
+ 🎥 Live classes integration (Zoom/meeting support)  
+- 📝 Assignments, quizzes & progress tracking  
+- 📊 Government exam coaching support  
+- 📚 Book references & study materials  
+ 💬 Real-time communication between students & instructors 
+
 
 ## 📊 GitHub Stats
 
@@ -61,7 +68,6 @@
 ## 🛠️ Engineering Interests
 
 - 🌉 **Full-Stack Web Architecture** (Frontend ↔️ Backend)
-- 🔋 **IoT Innovations** using Raspberry Pi & Arduino
 ---
 
 ## 🌐 Connect With Me
