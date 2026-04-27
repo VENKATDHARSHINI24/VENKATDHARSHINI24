@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkatdharshini V</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=6000&pause=2000&color=F70A9B&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;Tech+Enthusiast+%7C+AI+Explorer;+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=6000&pause=2000&color=F70A9B&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;Tech+Enthusiast+%7C+AI+Explorer;+%7Calt="Typing SVG" />
 </h3>
 
 ---
