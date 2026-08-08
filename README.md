@@ -87,7 +87,7 @@
 ## 🙏 Thank You for Visiting!
 
 <p align="center">
-  Thanks for scrolling! 😊 Always open to collaboration, discussion, and building something impactful.  
+  Thanks for scrolling! 😊 Always open to collaboration, discussion, and building something impactful. 
 </p>
 
 <p align="center">
